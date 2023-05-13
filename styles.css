@@ -1,0 +1,15 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+/* .container{
+} */
+.container ul {
+	margin: 0;
+	list-style-type: none;
+	display: flex;
+	justify-content: start;
+	align-items: center;
+	background-color: var(--color-600);
+}
